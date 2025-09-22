@@ -1,1 +1,3 @@
-console.log("Ejecutando el sistema)
+const ListaAmigos = {};
+const inputAmigo = document.getElementById
+("Amigo");
